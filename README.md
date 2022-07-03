@@ -4,19 +4,19 @@
 # Содержание:
   * Модуль 01:
     - [Предобработка данных](https://github.com/bitfounder/Yandex-Practicum/tree/main/Project_01) - Project_01
-    - [Исследовательский анализ данных]() - Project_02
-    - [Статистический анализ данных]() - Project_03
-    - [Сборный проект]() - Project_04
+    - [Исследовательский анализ данных](https://github.com/bitfounder/Yandex-Practicum/tree/main/Project_02) - Project_02
+    - [Статистический анализ данных](https://github.com/bitfounder/Yandex-Practicum/tree/main/Project_03) - Project_03
+    - [Сборный проект](https://github.com/bitfounder/Yandex-Practicum/tree/main/Project_04) - Project_04
   * Модуль 02:
-    - [Введение в машинное обучение]() - Project_05
-    - [Обучение с учителем]() - Project_06
-    - [Машинное обучение в бизнесе]() - Project_07
-    - [Сборный проект]() - Project_08
+    - [Введение в машинное обучение](https://github.com/bitfounder/Yandex-Practicum/tree/main/Project_05) - Project_05
+    - [Обучение с учителем](https://github.com/bitfounder/Yandex-Practicum/tree/main/Project_06) - Project_06
+    - [Машинное обучение в бизнесе](https://github.com/bitfounder/Yandex-Practicum/tree/main/Project_07) - Project_07
+    - [Сборный проект](https://github.com/bitfounder/Yandex-Practicum/tree/main/Project_08) - Project_08
   * Модуль 03:
-    - [Линейная алгебра]() - Project_09
-    - [Численные методы (градиентный бустинг)]() - Project_10
-    - [Временные ряды]() - Project_11
-    - [Машинное обучение для текстов]() - Project_12
+    - [Линейная алгебра](https://github.com/bitfounder/Yandex-Practicum/tree/main/Project_09) - Project_09
+    - [Численные методы (градиентный бустинг)](https://github.com/bitfounder/Yandex-Practicum/tree/main/Project_10) - Project_10
+    - [Временные ряды](https://github.com/bitfounder/Yandex-Practicum/tree/main/Project_11) - Project_11
+    - [Машинное обучение для текстов](https://github.com/bitfounder/Yandex-Practicum/tree/main/Project_12) - Project_12
   * Модуль 04:
     - [Извлечение данных]() - Project_13
     - [Компьютерное зрение]() - Project_14
