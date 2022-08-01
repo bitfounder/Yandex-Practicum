@@ -5,7 +5,7 @@
 
 
 |№ проекта|Проект|Название проекта|Библиотека|
-|---|---|---|---|
+|:---:|---|---|---|
 |Project_01|[Предобработка данных](https://github.com/bitfounder/Yandex-Practicum/tree/main/Project_01)|Исследование надёжности заёмщиков — анализ банковских данных.|pandas, matplotlib, pymystem3|
 |Project_02|[Исследовательский анализ данных](https://github.com/bitfounder/Yandex-Practicum/tree/main/Project_02)|Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости.|pandas, matplotlib|
 |Project_03|[Статистический анализ данных](https://github.com/bitfounder/Yandex-Practicum/tree/main/Project_03)|Определение выгодного тарифа для телеком компании.|pandas, math, numpy, matplotlib, scipy|
