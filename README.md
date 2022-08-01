@@ -19,6 +19,6 @@
 |Project_11|[Временные ряды](https://github.com/bitfounder/Yandex-Practicum/tree/main/Project_11)|Прогнозирование количества заказов такси на следующий час.|pandas, numpy, matplotlib, time, statsmodels, sklearn, catboost|
 |Project_12|[Машинное обучение для текстов](https://github.com/bitfounder/Yandex-Practicum/tree/main/Project_12)|Обучение модели классификации комментариев.|pandas, re, matplotlib, tqdm, pymystem3, nltk, sklearn, catboost, lightgbm, time, string, en_core_web_sm|
 |Project_13|[Извлечение данных](https://github.com/bitfounder/Yandex-Practicum/tree/main/Project_12)|||
-|Project_14|[Компьютерное зрение](https://github.com/bitfounder/Yandex-Practicum/tree/main/Project_12)|||
+|Project_14|[Компьютерное зрение](https://github.com/bitfounder/Yandex-Practicum/tree/main/Project_14)|Определение возраста покупателей.|pandas, numpy, tensorflow|
 |Final_project|[Выпускной проект](https://github.com/bitfounder/Yandex-Practicum/tree/main/Project_12)|||
 
